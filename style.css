@@ -1,1 +1,28 @@
 /* Use Selectors and attributes for the HTML design */
+
+h1{
+    text-transform: capitalize;
+    text-decoration: line-through;
+    text-shadow: 10px 10px 5px rgba(150, 150, 150, 1);
+    letter-spacing:80px;
+    text-align-last: center;
+    color: red;
+    font-size: 180px;
+    font-variant: normal ; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+}
+    
+h2{
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-align-last:center;
+    font-size: 80px;
+    color: red;   
+}
+h3{
+    text-transform: capitalize;
+    text-align-last:center;
+    font-size: 50px;
+    color:blueviolet
+}
